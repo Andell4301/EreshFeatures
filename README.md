@@ -65,7 +65,7 @@
   <summary><b>Other Lookup Types</b></summary>
   <b>Command Codes</b>
   <br>
-  <img src="https://user-images.githubusercontent.com/56235026/144731600-a2c04bbe-63e4-4434-a12c-85aaaf7c18f1.png">
+  <img src="https://user-images.githubusercontent.com/56235026/144731860-fbe4d954-8cb7-4242-aa31-8f72189e1816.png">
   <br>
   <b>Mystic Codes</b>
   <br>
@@ -79,11 +79,47 @@
   <br>
   <b>Map Nodes</b>
   <br>
-  <img src="https://user-images.githubusercontent.com/56235026/144731669-a3e2b429-c207-42bd-8559-139c3f1bc5a5.png">
+  <img src="https://user-images.githubusercontent.com/56235026/144731757-cebab92c-a002-4325-a52a-d3ba19068466.png">
   <br>
   <b>Quests</b>
   <br>
   <img src="https://user-images.githubusercontent.com/56235026/144731710-9f3b9fcc-0c7b-49c9-bc00-090cfdbbf067.png">
   <br>
+  <b>Servant, CE, and CC Art</b>
+  <br>
+  <img src="https://user-images.githubusercontent.com/56235026/144731833-c3997390-0219-427b-8f53-55c364e551eb.png">
+  <br>
+  <img src="https://user-images.githubusercontent.com/56235026/144731842-27808977-4bcd-4bbd-8d4d-0fc5db1468ff.png">
+  <br>
+  <img src="https://user-images.githubusercontent.com/56235026/144731850-cfd9619a-6299-4e4d-9f4e-00e163cf8a48.png">
+  <br>
+</details>
 
+<details>
+  <summary><b>Servant Listing Commands</b></summary>
+  <b>List Servants by Trait</b>
+  <br>
+  <img src="https://user-images.githubusercontent.com/56235026/144731894-bf6dafdb-cc9d-4843-acd1-4190bd536f5b.png">
+  <br>
+  <b>Sort Servants by Specified Arguments</b>
+  <br>
+  <img src="https://user-images.githubusercontent.com/56235026/144731907-2aec7a8a-a4e9-40ee-82be-54e54921752e.png">
+  <br>
+  <b>List Servants with a given Voice</b>
+  <br>
+  <img src="https://user-images.githubusercontent.com/56235026/144731927-490cde41-53d9-4ef7-987b-5c7f82b78405.png">
+  <br>
+  <b>List Servants/CEs/CCs with a given Illustrator</b>
+  <br>
+  <img src="https://user-images.githubusercontent.com/56235026/144731951-0ba70d3c-8eb0-455b-a41f-e7e9d761d36c.png">
+  <br>
+  <b>List Skills/Passives containing a given string</b>
+  <br>
+  <img src="https://user-images.githubusercontent.com/56235026/144731962-0fa0a67c-6a03-4d5d-b1d0-e60b188b3d8b.png">
+  <br>
+  <b>List Servants who use a specific material</b><br>
+  You can then further filter this by using the buttons at the bottom to exclude or include servants who use the material in their skills, appends, ascensions, or costumes accordingly. The totals will adjust dynamically.
+  <br>
+  <img src="https://user-images.githubusercontent.com/56235026/144731982-200afe59-611d-4ee3-a34f-1a30e2c6ef53.png">
+  <br>
 </details>
