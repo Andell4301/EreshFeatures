@@ -93,6 +93,14 @@
   <br>
   <img src="https://user-images.githubusercontent.com/56235026/144731850-cfd9619a-6299-4e4d-9f4e-00e163cf8a48.png">
   <br>
+  <b>Servant Expression sheets</b>
+  <br>
+  <img src="https://user-images.githubusercontent.com/56235026/144732729-4b94992a-0472-4131-883e-2e6a99cac335.png">
+  <br>
+  <b>Individual skills, NPs, or passives</b>
+  <br>
+  <img src="https://user-images.githubusercontent.com/56235026/144732759-3c98a5b2-fffc-40dc-a7fd-699310b132fb.png">
+  <br>
 </details>
 
 <details>
