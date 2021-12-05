@@ -123,3 +123,51 @@
   <img src="https://user-images.githubusercontent.com/56235026/144731982-200afe59-611d-4ee3-a34f-1a30e2c6ef53.png">
   <br>
 </details>
+
+<details>
+  <summary><b>General Information Commands</b></summary>
+  <b>Look up class affinity information</b>
+  <br>
+  <img src="https://user-images.githubusercontent.com/56235026/144732058-9bf2bbcd-3a70-4ec4-bef4-f24fdb88e736.png">
+  <br>
+  <b>Look up attribute affinity information</b>
+  <br>
+  <img src="https://user-images.githubusercontent.com/56235026/144732075-5bbfdf77-c579-49f1-ba0c-18e6b286ccaa.png">
+  <br>
+  <b>Look up various ingame formulas</b>
+  <br>
+  <img src="https://user-images.githubusercontent.com/56235026/144732086-7267c249-705c-47c3-b8bb-d33acd6fc3da.png">
+  <br>
+  <b>Look up several infographics from various members of the community</b>
+  <br>
+  <img src="https://user-images.githubusercontent.com/56235026/144732100-cb3d342f-0f45-4f16-8e7a-9a7c8fe35154.png">
+  <br>
+  <b>Look up currently active master missions in NA or JP</b>
+  <br>
+  <img src="https://user-images.githubusercontent.com/56235026/144732104-8bdc7ed0-9d39-4dd8-b076-f223445adef5.png">
+  <br>
+  <img src="https://user-images.githubusercontent.com/56235026/144732117-a7bf02a1-3ef6-4046-bbb8-97a12cbde664.png">
+  <br>
+  <b>Look up singularity lengths and optionally sort by phases or chapters</b>
+  <br>
+  <img src="https://user-images.githubusercontent.com/56235026/144732134-83356ce8-2d63-4a92-877e-a836304b2fe1.png">
+  <br>
+  <b>Look up master level information</b>
+  <br>
+  <img src="https://user-images.githubusercontent.com/56235026/144732161-229628c5-3670-46a9-8ad1-ee3ba88a079c.png">
+  <br>
+  <b>Look up grail cost by rarity</b>
+  <br>
+  <img src="https://user-images.githubusercontent.com/56235026/144732170-9429704d-2faa-405c-aa76-c1717b08911c.png">
+  <br>
+  <b>Look up servant or CE stats at a specific level</b>
+  <br>
+  <img src="https://user-images.githubusercontent.com/56235026/144732188-1e083465-fa77-4b97-8aea-fef2dfb07eaf.png">
+  <br>
+  <img src="https://user-images.githubusercontent.com/56235026/144732224-afd690e4-e797-49dd-b980-2d721029412f.png">
+  <br>
+  <b>Look up resources filtered by specific tags</b>
+  <br>
+  <img src="https://user-images.githubusercontent.com/56235026/144732237-d3be222f-c9a6-4124-a964-efcfdc4f6be4.png">
+  <br>
+</details>
