@@ -1,7 +1,7 @@
 ## Eresh Bot Feature List
 
 <details>
-  <summary><b>Look Up Servant Information</b></summary>
+  <summary><b>Servant Info Lookup Commands</b></summary>
   Note: All of the following are tabs on the servant embeds. So if you look up any one of these, there will be an array of buttons below the embed to easily switch to any of the other pages.
     <br>
   <img src="https://user-images.githubusercontent.com/56235026/144731106-7e953826-e138-4e2d-be3e-9df71ae50f77.png">
@@ -50,7 +50,7 @@
 </details>
 
 <details>
-  <summary><b>Look Up CE Information</b></summary>
+  <summary><b>CE Info Lookup Commands</b></summary>
   <b>Through looking up the CE itself</b>
   <br>
   <img src="https://user-images.githubusercontent.com/56235026/144731536-30b2b6c0-0dd2-44bc-bc0f-77f4643087f4.png">
@@ -62,7 +62,7 @@
 </details>
 
 <details>
-  <summary><b>Other Lookup Types</b></summary>
+  <summary><b>Other Lookup Commands</b></summary>
   <b>Command Codes</b>
   <br>
   <img src="https://user-images.githubusercontent.com/56235026/144731860-fbe4d954-8cb7-4242-aa31-8f72189e1816.png">
@@ -170,4 +170,46 @@
   <br>
   <img src="https://user-images.githubusercontent.com/56235026/144732237-d3be222f-c9a6-4124-a964-efcfdc4f6be4.png">
   <br>
+</details>
+
+<details>
+  <summary><b>Calculation Commands</b></summary>
+  <b>Calculate Gacha odds</b><br>
+  You can specify the type of gacha (currently: rateup ssr, rateup sr, any ssr, any sr, old pre-4th anni ssr) as well as specify SQ and/or tickets.
+  <br>
+  <img src="https://user-images.githubusercontent.com/56235026/144732314-5f72464b-03f5-450d-b95d-b794722383b1.png">
+  <br>
+  <b>Damage/NP gen calculation like wizard bot</b>
+  <br>
+  <img src="https://user-images.githubusercontent.com/56235026/144732357-492e545b-ed1c-40a6-901f-21aec36316ed.png">
+  <br>
+  <img src="https://user-images.githubusercontent.com/56235026/144732345-cf97e1f5-f91c-425e-b920-285257b9ed29.png">
+  <br>
+  <b>Calculate Instakill chance</b>
+  <br>
+  <img src="https://user-images.githubusercontent.com/56235026/144732379-6586050b-2534-43e6-9751-37ce06253ad0.png">
+  <br>
+  <b>Calculate EXP requirements for Servants or CEs</b>
+  <br>
+  <img src="https://user-images.githubusercontent.com/56235026/144732408-1820e17f-1973-421e-9e51-5c5e23f0c1bf.png">
+  <br>
+  <img src="https://user-images.githubusercontent.com/56235026/144732417-2595808f-50b3-4611-9be6-f7741dfe1a7f.png">
+  <br>
+</details>
+
+<details>
+  <summary><b>Misc Commands</b></summary>
+  <b>List various timers in your local timezone as well as the current server time</b>
+  <br>
+  <img src="https://user-images.githubusercontent.com/56235026/144732450-34c50007-ae56-47b8-80d0-d03fa637401f.png">
+  <br>
+  <b>Look up support lists from Rayshift.io</b><br>
+  You can either use a friend code, or you can set your support with /setrayshift and people in the same server can look you up by name.
+  <br>
+  <img src="https://user-images.githubusercontent.com/56235026/144732533-99a759b2-a63e-4578-9a33-033fd71b9053.png">
+  <br>
+  <b>Flip A Coin... For when you can't decide if you should keep rolling!</b><br>
+  You can either use a friend code, or you can set your support with /setrayshift and people in the same server can look you up by name.
+  <br>
+  <img src="https://user-images.githubusercontent.com/56235026/144732573-6ad84169-29cb-4d94-a52c-35bbebda3066.png">
 </details>
