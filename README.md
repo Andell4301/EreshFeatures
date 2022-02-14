@@ -1,3 +1,5 @@
+## NOTE: This page is out of date! For the most up to date list of features, please refer to EreshBot's built in /help command.
+
 ## Eresh Bot Feature List
 
 <details>
